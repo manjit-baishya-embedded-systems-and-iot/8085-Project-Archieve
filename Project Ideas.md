@@ -1,7 +1,7 @@
 ## 30 Real-Life Problem Statements for 8085 Microprocessor
 
 1. **Smart Lighting System:**
-   Control a set of 8 lights in a house, ensuring only the lights in occupied rooms are on. Assume lights are controlled via port 02H.
+   Control a set of 8 lights in a house, ensuring only the lights in occupied rooms are on.
 
 2. **Automated Water Dispenser:**
    Implement a program to dispense a specific amount of water from a dispenser when a button is pressed. Water level is monitored through port 03H.
